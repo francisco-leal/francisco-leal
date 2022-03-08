@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Francisco and I'm a Full-stack developer with 5+ years of experience and a background on electrical and computer engineering that specialises in modern javascript and ruby.
+My name is Francisco and I'm a Full-stack developer turned CPO with 5+ years of experience and a background on electrical and computer engineering that specialises in modern javascript and ruby.
 ### 🔭 I’m currently working on Talent Protocol
 
 Do you know someone that if you could you'd invest in their future? Most of us do and we at Talent Protocol want to create a platform where you can do just that. In sum, <a href="https://talentprotocol.com" target="_blank">Talent Protocol</a> is a decentralized network where talent can launch a branded personal token, and where sponsors can make angel investments in careers they believe in. Imagine a Kickstarter for careers, powered by blockchain.
